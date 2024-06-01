@@ -117,7 +117,7 @@
         },
         {
             "from": {
-                "key_code": "r",
+                "key_code": "f",
                 "modifiers": {
                     "mandatory": [
                         "right_command"
@@ -136,7 +136,7 @@
         },
         {
             "from": {
-                "key_code": "f",
+                "key_code": "v",
                 "modifiers": {
                     "mandatory": [
                         "right_command"
