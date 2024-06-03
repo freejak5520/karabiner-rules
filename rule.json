@@ -186,45 +186,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_1"
-                }
-            ],
-            "type": "basic"
-        },
-        {
-            "from": {
-                "key_code": "comma",
-                "modifiers": {
-                    "mandatory": [
-                        "fn"
-                    ],
-                    "optional": [
-                        "any"
-                    ]
-                }
-            },
-            "to": [
-                {
-                    "key_code": "keypad_2"
-                }
-            ],
-            "type": "basic"
-        },
-        {
-            "from": {
-                "key_code": "period",
-                "modifiers": {
-                    "mandatory": [
-                        "fn"
-                    ],
-                    "optional": [
-                        "any"
-                    ]
-                }
-            },
-            "to": [
-                {
-                    "key_code": "keypad_3"
+                    "key_code": "keypad_0"
                 }
             ],
             "type": "basic"
@@ -243,7 +205,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_4"
+                    "key_code": "keypad_1"
                 }
             ],
             "type": "basic"
@@ -262,7 +224,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_5"
+                    "key_code": "keypad_2"
                 }
             ],
             "type": "basic"
@@ -281,7 +243,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_6"
+                    "key_code": "keypad_3"
                 }
             ],
             "type": "basic"
@@ -300,7 +262,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_7"
+                    "key_code": "keypad_4"
                 }
             ],
             "type": "basic"
@@ -319,7 +281,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_8"
+                    "key_code": "keypad_5"
                 }
             ],
             "type": "basic"
@@ -338,7 +300,7 @@
             },
             "to": [
                 {
-                    "key_code": "keypad_9"
+                    "key_code": "keypad_6"
                 }
             ],
             "type": "basic"
